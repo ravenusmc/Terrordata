@@ -9,7 +9,7 @@ def welcome():
   print("Welcome to Terrorist attack data plotter")
   print("This project will show terrorist attacks")
   print("The user will be asked to select a country")
-  print("and then the terrorist attacks will be shown from 1970")
+  print("and then the terrorist attacks will be shown from 1970 to present")
   print("----------------------------------------")
 
 def country():
